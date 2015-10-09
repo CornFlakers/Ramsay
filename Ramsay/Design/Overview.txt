@@ -1,0 +1,32 @@
+Skylar Barth - 09/10/2015
+Project Ramsay.
+
+For too long, I have been using google note and scrap paper to keep track of recipes.
+I tried downloading [a thousand] app(s), it was just messy and cluttered and well ... bad.
+
+I aim to make an app that you can use on any device, mainly mobile, that can house your recipes,
+pantry, fridge items. Eggs, flour, salt, potatoes, spinach, milk. 
+
+It will start out managing items in your fridge/pantry. 
+The goal is that when you use a bit of something, through a recipe that the app
+knows about, the app will subtract that quantity of item from your stock.
+
+Eventually, you will train the app and share with it your recipes and other recipes you find online.
+Ultimately you could parse json/xml recipes from other ramsay users or supporting apis into ramsay.
+Ramsay will then be able to tell you what recpies you can make based off of your stock.
+
+No more rummaging and wondering what you have left.
+
+Spill a bit? Ramsay will alert you when you are 25%, 10%, 5% and 0% low on something so you have ultimate
+time to make a run to the store on your way out or the weekend.
+
+We will target using grams to start out with, as we need a base for all conversions.
+Something similar to http://dish.allrecipes.com/cup-to-gram-conversions/
+
+Items will either be a quantity based (ie 3eggs) or a 
+measurement based (ie 2cups flour == 128grams * 2 == 256g flour)
+
+With this, we hope to help manage pantries, store recipes, make cooking fun, fast, efficent and less
+stressful. Save money and share recpies and have fun in the process.
+
+Cheers.
