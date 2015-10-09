@@ -1,0 +1,5 @@
+Skylar Barth - 09/10/2015
+Project Ramsay.
+
+The goal here is to use C#, SQLite and MVC/.NET to bring an app to android to keep track of recipes.
+Once I can get my recipes into ramsay we will worry about phase two.
